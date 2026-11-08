@@ -50,7 +50,7 @@ BULAN_DICT = {
 }
 
 st.set_page_config(page_title="Generator Rasio BBM", layout="wide")
-st.title("🚌 Auto-Generator LPJ (Lutfi Laeli Nur Afita ❤️)")
+st.title("🚌 Auto-Generator LPJ (Lutfi Laeli Nur Afita)")
 
 # --- 1. PENGATURAN PARAMETER ---
 st.markdown("### 1. Pengaturan Utama")
